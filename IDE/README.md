@@ -6,7 +6,7 @@
   </div>
 
 ## Introducción
-  Este repositorio esta destinado a describir la instalación de los difentes IDE´s en Ubuntu 20.04.
+  Realización de la instalación de los difentes IDE´s en Ubuntu 20.04.
   - [Instalación de Netbeans 8.](NETBEANS-8.md)
   - [Instalación de Netbeans 12.](NETBEANS-12.md)
   - [Instalación de Eclipse.](ECLIPSE.md)
