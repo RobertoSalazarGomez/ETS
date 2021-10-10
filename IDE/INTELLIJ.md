@@ -10,7 +10,7 @@
 1.	Primero verificamos que tenemos instalado en el equipo Java para ello utilizamos el siguiente comando: 
   
 ```
-  java --version
+  java -version
 ```
   
  <div align="center">
@@ -20,13 +20,13 @@
 2.	Una vez comprobada procedemos a instalar Intellij para ello usamos el siguiente comando:
   
 ```
-  sudo snap install –classic eclipse
+  sudo snap install intellij-idea-community --classic
 ```
  <div align="center">
  <img src="Img/Intellij/2.png">
  </div>
   
- ## Instalar Eclipse en Ubuntu.
+ ## Instalar Intellij en Ubuntu.
 1.	Comprobamos que el icono se encuentra entre las aplicaciones instaladas.
  <div align="center">
  <img src="Img/Intellij/3.png">
