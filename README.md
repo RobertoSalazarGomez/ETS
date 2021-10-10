@@ -4,7 +4,7 @@
  </div>
   
 # ETS Entornos de desarollo
-Repositorio para las tareas de la asignaturas de Entornos de desarrollo.
+Repositorio para las tareas de la asignatura de Entornos de desarrollo.
 ## Indice
   - [Instalación de Java](https://github.com/RobertoSalazarGomez/Jdk.git)
   - [Instalación de Maven](https://github.com/RobertoSalazarGomez/Maven.git)
