@@ -36,7 +36,7 @@ chmod +x jdk-8u111-nb-8_2-linux-x64.sh
  <img src="Img/Netbeans8/4.png">
  </div>
   
- ## Instalar Netbeans 12 en Ubuntu.
+ ## Instalar Netbeans 8 en Ubuntu.
   
 1.	Comprobamos que el icono se encuentra entre las aplicaciones instaladas.
   
