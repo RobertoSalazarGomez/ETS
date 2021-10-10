@@ -10,7 +10,7 @@
 1.	Primero verificamos que tenemos instalado en el equipo Java para ello utilizamos el siguiente comando: 
   
 ```
-  java --version
+  java -version
 ```
   
  <div align="center">
