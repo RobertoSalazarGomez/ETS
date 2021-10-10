@@ -17,7 +17,7 @@
  <img src="Img/Netbeans12/1.png">
  </div>
   
-2.	Una vez comprobada procedemos a instalar Intellij para ello usamos el siguiente comando:
+2.	Una vez comprobada procedemos a instalar NetBeans 12 para ello usamos el siguiente comando:
   
 ```
   sudo snap install netbeans --classic
