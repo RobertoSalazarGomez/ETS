@@ -1,9 +1,9 @@
 <div align="justify">
-  
-# Instalación de Ide´s en Ubuntu
 
-<div align="center">
-</div>
+# Instalación de Ide´s en Ubuntu
+  <div align="center">
+   <img src="Img/IDE.png"width="300px">
+  </div>
 
 ## Introducción
   Este repositorio esta destinado a describir la instalación de los difentes IDE´s en Ubuntu 20.04.
