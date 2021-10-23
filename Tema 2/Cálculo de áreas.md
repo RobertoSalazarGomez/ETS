@@ -13,7 +13,8 @@ Se plantea realizar un análisis para el desarrollo de una aplicación que permi
 </p>
 <p align="center">
 
-
+<img src="Img/1.png">
+          
 ## Requisitos:
 <p align="justify">
 Sera necesario tener en cuenta los siguientes requisitos:
